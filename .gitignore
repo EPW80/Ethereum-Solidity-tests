@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+package-lock.json
+EVM-Blockchain-Notes.txt
+METAMASK_SECRET_PHRASE.txt
+.git
